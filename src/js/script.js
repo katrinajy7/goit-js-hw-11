@@ -36,16 +36,16 @@ function renderGallery(hits) {
                         <div class="info">
                             <p class="info-item">
                             <b>Likes</b></p>
-                            ${likes}
+                               ${likes}
                             <p class="info-item">
                             <b>View</b></p>
-                            ${views}
+                               ${views}
                             <p class="info-item">
                             <b>Comments</b></p>
-                            ${comments}
+                               ${comments}
                             <p class="info-item">
                             <b>Downloads</b></p>
-                            ${downloads}
+                               ${downloads}
                         </div>
                     </div>
                 </a>
