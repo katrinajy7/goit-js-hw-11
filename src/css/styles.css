@@ -109,29 +109,3 @@ body {
     text-decoration: none;
 }
 
-/* Responsive adjustments
-@media (max-width: 768px) {
-    .search-form input[type="text"] {
-        width: 100%;
-        margin-right: 0;
-        margin-bottom: 10px;
-    } */
-
-    /* .search-form button {
-        width: 100%;
-    }
-
-    .gallery {
-        padding: 10px;
-    }
-
-    .photo-card {
-        width: calc(50% - 20px);
-    }
-}
-
-@media (max-width: 480px) {
-    .photo-card {
-        width: 100%;
-    }
-} */

@@ -109,7 +109,7 @@ async function loadmore() {
 
 function handleScroll() {
     const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
-    if(scrollTop + clientHeight >=scrollHeight) {
+    if (scrollTop + clientHeight >=scrollHeight) {
         loadmore();
     }
 }
